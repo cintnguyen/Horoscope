@@ -1,0 +1,38 @@
+*{
+    box-sizing:border-box;
+    font-family:"Playfair display",sans-serif;
+}
+
+body{
+    text-align:center;
+    line-height:3rem;
+    background:url(horoscope.png);
+    color:white;
+}
+
+h1{
+    font-size:4rem;
+}
+
+label{
+    font-size:1.5rem;
+}
+
+input{
+    padding:10px;
+    margin:10px;
+    text-align:center;
+    font-size:2rem;
+}
+button{
+    padding:10px;
+    background:transparent;
+    border:1px solid white;
+    color:white;
+    font-size:1.5rem;
+    margin:10px;
+}
+
+.message{
+    font-size:3rem;
+}
