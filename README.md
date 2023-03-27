@@ -1,8 +1,8 @@
-#Horoscope
+# Horoscope
 A website that enables you to find out your horoscope after entering in your birth date!
 
-Link to project: -
+Link to project: - https://starryhoroscope.netlify.app/
 
-#How It's Made:
+# How It's Made:
 Tech used: HTML, CSS, JavaScript
 
